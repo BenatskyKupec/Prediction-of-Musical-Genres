@@ -1,2 +1,2 @@
-# Prediction-of-Musical-Genred
+# Prediction-of-Musical-Genres
 School project for Data Science Class
